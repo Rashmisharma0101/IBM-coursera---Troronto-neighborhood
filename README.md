@@ -1,1 +1,1 @@
-# IBM-coursera---Troronto-neighborhood
+# IBM-coursera---Toronto-neighborhood
